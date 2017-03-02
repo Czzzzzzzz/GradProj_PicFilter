@@ -1,2 +1,7 @@
-This project aims at cliping faces from each picture in a directory.
+1.运行环境
+	a.opencv 2.4.11
+	b.vs 2013
+2.运行方法
+
+
 
